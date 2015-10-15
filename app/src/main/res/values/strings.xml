@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyMovie</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- to use in intent in putExtra method-->
+    <string name="id">id</string>
+    <string name="title">title</string>
+    <string name="poster">poster</string>
+    <string name="vote">vote</string>
+    <string name="date">date</string>
+    <string name="overView">overView</string>
+    <string name="title_activity_movie">movie</string>
+
+    <!--for sorting-->
+    <string name="pref_popular_default">POPULARITY</string>
+    <string name="pref_key">sorting</string>
+
+</resources>
